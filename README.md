@@ -10,5 +10,5 @@
 ### 💫8월 계획
   + 라즈베리파이 프로젝트(with 준헌 성욱) 성공리에 마치기!
 --------------------------------------------------
-<img src = "./1566379818082.jpg" width="40%">
+<img src = "https://user-images.githubusercontent.com/53314694/126457529-9aa8fb12-8c65-4d4b-9ad0-61dec61ad82a.jpg" width="400px">
 
