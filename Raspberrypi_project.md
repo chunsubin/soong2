@@ -7,4 +7,4 @@
 4. 영상처리 모델 제작 (성욱)
 5. 라즈베리파이 -> 아두이노 데이터 전송 (준헌)
 6. 아두이노 주변 장치 제어 (수빈, 나영)
-![Trackimage](https://user-images.githubusercontent.com/53314694/127481319-43e446fa-757a-410e-9bb3-1d4063326c77.jpg){: width="300" height="300"){: .center}
+![Trackimage](https://user-images.githubusercontent.com/53314694/127481319-43e446fa-757a-410e-9bb3-1d4063326c77.jpg)
