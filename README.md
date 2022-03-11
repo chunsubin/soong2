@@ -14,3 +14,4 @@
 ### 목표
   + 반도체 교육 캠프
   + 졸업작품
+![귀염케이크](https://user-images.githubusercontent.com/53314694/157807897-aa87a11e-82e4-4ff9-8d1e-0e21779a19be.JPG)
